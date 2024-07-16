@@ -1,5 +1,5 @@
 # intern1
-python code of tic tac toe
+#python code of tic tac toe
 def print_board(board):
     for row in board:
         print(" | ".join(row))
